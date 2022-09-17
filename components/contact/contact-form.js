@@ -1,5 +1,5 @@
 import { useRef } from "react";
-import classes from "./contct-form.module.css";
+import classes from "./contact-form.module.css";
 
 const ContactForm = ({ onAddMessage }) => {
   const enteredEmail = useRef();

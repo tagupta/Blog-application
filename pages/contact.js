@@ -1,4 +1,4 @@
-import ContactForm from "../components/contact/contct-form";
+import ContactForm from "../components/contact/contact-form";
 
 const ContactPage = () => {
   const messageHandler = (details) => {
