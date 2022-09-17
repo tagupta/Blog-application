@@ -1,0 +1,29 @@
+.content {
+  width: 70%;
+  margin: 2rem auto;
+  border: 1px solid;
+  padding: 1.5rem;
+  background: #fff;
+  border: none;
+  border-radius: 6px;
+}
+.content img {
+  border-radius: 6px;
+}
+.markDown {
+  padding: 0px;
+}
+
+@media (max-width: 678px) {
+  .content {
+    width: 90%;
+    padding: 0px;
+  }
+  .content img {
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+  }
+  .markDown {
+    padding: 0px 1.5rem 1rem;
+  }
+}
