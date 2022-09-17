@@ -10,6 +10,11 @@
 .content img {
   border-radius: 6px;
 }
+.content .image {
+  margin: 1rem auto;
+  width: 100%;
+  max-width: 600px;
+}
 .markDown {
   padding: 0px;
 }
