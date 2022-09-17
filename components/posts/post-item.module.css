@@ -1,0 +1,42 @@
+.post {
+  border: 1px solid;
+  width: 30%;
+  background: #fff;
+  border: none;
+  min-width: 17rem;
+  border-radius: 6px;
+  /* box-shadow: 0px 2px 13px 3px #888888; */
+  /* margin: 1rem; */
+}
+
+.post a {
+  text-decoration: none;
+}
+
+.post img {
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+.content {
+  padding: 0px 20px;
+  color: #000;
+}
+.content h1 {
+  font-size: 1.3rem;
+}
+.content time {
+  font-style: italic;
+}
+.post:hover {
+  box-shadow: 0px 2px 13px 3px #888888;
+}
+
+@media (max-width: 678px) {
+  .post {
+    width: 90%;
+  }
+  .image span {
+    max-height: 35vh;
+  }
+}

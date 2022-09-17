@@ -1,0 +1,13 @@
+.grid {
+  margin-top: 0px;
+  display: flex;
+  padding: 0px;
+  /* margin: 2rem 3rem; */
+  gap: 2rem;
+  text-align: center;
+  list-style: none;
+  background: #000;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 1rem 2rem;
+}

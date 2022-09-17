@@ -31,7 +31,7 @@
 
 .header a:hover,
 .header a:active {
-  color: rgb(143, 68, 241);
+  color: #888888;
 }
 
 @media (max-width: 500px) {
