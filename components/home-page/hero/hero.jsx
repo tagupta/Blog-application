@@ -14,9 +14,9 @@ const Hero = () => {
       </div>
       <h1>Hi, I'm an Avatar</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum
-        molestiae dolor impedit dolorum repudiandae laudantium quam commodi a
-        provident.
+        I blog about whatever comes to my mind. Cause every human being has
+        right to write. You can have a look at posts section and study few blogs
+        there.
       </p>
     </section>
   );
